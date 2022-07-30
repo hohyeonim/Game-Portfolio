@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Burn : MonoBehaviour
 {
+
     private bool isBurning = false;
 
     [SerializeField]
